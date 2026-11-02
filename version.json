@@ -1,0 +1,12 @@
+{
+  "version": "1.0.6",
+  "released_at": "2026-11-02 07:07",
+  "pak_sha256": "65a81ba3d06702ae41e643b6989282b943fd32369cab624a77c01bbd7d668b04",
+  "pak_size": 103830,
+  "pak_url": "https://raw.githubusercontent.com/clortegah/VideoKMS-Updates/main/videokms.pak",
+  "run_sha256": "cc9c29492bfc6cb06bc96d3062f2f6574f2ab96f5eeead2d03fda08336be0d19",
+  "run_url": "https://raw.githubusercontent.com/clortegah/VideoKMS-Updates/main/run.pyc",
+  "kmz_sha256": "ce2fb173fa9105b5bb827379739f6c92eca86bca2d93ca28004556402df83ef1",
+  "kmz_url": "https://raw.githubusercontent.com/clortegah/VideoKMS-Updates/main/Km%20cada%201Km.kmz",
+  "notes": "Actualizacion oficial de VideoKMS Portable"
+}
