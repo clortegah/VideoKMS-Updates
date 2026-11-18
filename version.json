@@ -1,0 +1,12 @@
+{
+  "version": "1.0.11",
+  "released_at": "2026-11-18 12:06",
+  "pak_sha256": "76006a4fdc2febf0227223b2e9f4f7831d1c1daadab67f321bc4a90362b9618b",
+  "pak_size": 170683,
+  "pak_url": "https://raw.githubusercontent.com/clortegah/VideoKMS-Updates/main/videokms.pak",
+  "run_sha256": "cc9c29492bfc6cb06bc96d3062f2f6574f2ab96f5eeead2d03fda08336be0d19",
+  "run_url": "https://raw.githubusercontent.com/clortegah/VideoKMS-Updates/main/run.pyc",
+  "kmz_sha256": "ce2fb173fa9105b5bb827379739f6c92eca86bca2d93ca28004556402df83ef1",
+  "kmz_url": "https://raw.githubusercontent.com/clortegah/VideoKMS-Updates/main/Km%20cada%201Km.kmz",
+  "notes": "Nuevo selector de temas UI (Identidad Tarapaca Azul/Cobre por defecto, Cinema Studio HUD 100%, Avionics Tactical y Swiss CAD) + correccion de mira optica al hacer zoom"
+}
